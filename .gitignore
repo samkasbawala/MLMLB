@@ -1,3 +1,6 @@
 # Environment specific
-/env
-/.vscode
+env
+.vscode
+
+# Notebook specifics
+.ipynb_checkpoints
