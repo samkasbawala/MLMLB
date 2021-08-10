@@ -15,7 +15,7 @@ def download(
     start_year,
     end_year,
     url="https://www.retrosheet.org/gamelogs/",
-    dl_path="./retrosheet_data/retrosheet_gls/",
+    dl_path="./retrosheet_data/gls/",
 ):
 
     # Check if download directory exists, if not make it
